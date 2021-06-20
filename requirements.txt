@@ -22,7 +22,6 @@ numpy
 opencv-python
 peewee
 Pillow
-psutil
 pycodestyle
 pydub
 pyee
